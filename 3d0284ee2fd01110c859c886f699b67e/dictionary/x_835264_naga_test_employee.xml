@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="employee" max_length="40" name="x_835264_naga_test_employee" type="collection">
+        <element label="Department" max_length="40" name="department" type="string"/>
+        <element label="Emp ID" max_length="40" name="emp_id" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
